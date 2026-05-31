@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervpdate",
+        "uuid": 19181640,
+        "checksum": "5uz89o"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
